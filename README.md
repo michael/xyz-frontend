@@ -28,3 +28,5 @@ This example is a simple [SvelteKit](https://kit.svelte.dev/) app.
 This example was created by running `npm init svelte@next`. SvelteKit is beta
 software and may have bugs. Please see the [official
 documentation](https://kit.svelte.dev/docs) for more info.
+
+Some change, to trigger a new build.
